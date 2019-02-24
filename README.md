@@ -1,4 +1,4 @@
-https://img.shields.io/docker/automated/bgruening/minknow.svg
+![](https://img.shields.io/docker/automated/bgruening/minknow.svg)
 
 # Docker container that can be used to run a local MinKNOW installation
 
