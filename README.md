@@ -1,4 +1,5 @@
-![](https://img.shields.io/docker/automated/bgruening/minknow.svg)
+[![](https://images.microbadger.com/badges/version/bgruening/minknow.svg)](https://microbadger.com/images/bgruening/minknow "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/bgruening/minknow.svg)](https://microbadger.com/images/bgruening/minknow "Get your own image badge on microbadger.com")
 
 # Docker container that can be used to run a local MinKNOW installation
 
